@@ -48,10 +48,12 @@ window.FILM = {
     },
     {
       ruolo: 'Il Commercialista',
-      nome: '',
+      nome: 'Vincenzo Abbatiello',
       mestiere: 'Commercialista',
       garanzia: 'Tesoriere. Ogni euro e ogni prodotto ricevuto viene registrato e rendicontato. Accordi scritti, niente sorprese.',
       icona: 'registro',
+      instagram: 'vincenzo.abbatiello',
+      linkedin: 'vincenzo-abbatiello-a1650513b',
     },
     {
       ruolo: "L'Economista",
@@ -63,8 +65,17 @@ window.FILM = {
       linkedin: 'simone-pallotta-334294b5',
     },
     {
+      ruolo: "L'Economista",
+      nome: 'Davide Miranda',
+      mestiere: 'Economista',
+      garanzia: 'Budget di produzione. Ogni contributo ha una destinazione precisa: sapete prima dove va e dopo quanto ha reso.',
+      icona: 'grafico',
+      instagram: '_dvd29_',
+      linkedin: 'davide-miranda-b523bb158',
+    },
+    {
       ruolo: 'Il Casaro',
-      nome: '',
+      nome: 'Alfredo Abbatiello',
       mestiere: 'Titolare di un caseificio',
       garanzia: 'Catering di scena. Sa cosa vuol dire fare impresa e vendere un prodotto: tratterà il vostro come fosse il suo.',
       icona: 'formaggio',
@@ -77,6 +88,14 @@ window.FILM = {
       icona: 'codice',
       instagram: 'acecio',
       linkedin: 'antonio-de-cecio-74989a168',
+    },
+    {
+      ruolo: 'Il Tecnico di Radiologia',
+      nome: 'Jacopo Palumbo',
+      mestiere: 'Tecnico sanitario di radiologia medica',
+      garanzia: 'Sicurezza di scena. Per mestiere guarda dentro le cose: nessuna sfida parte se non è fatta in sicurezza.',
+      icona: 'scudo',
+      instagram: 'jacopo.palumbo',
     },
   ],
 
