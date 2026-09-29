@@ -31,7 +31,7 @@ Perché funziona:
 3. **Compilate `assets/js/config.js`:**
    - `contatti`: create un **indirizzo email dedicato** (es. `ultimaripetizione@gmail.com`) e un **profilo Instagram** del film. Fa molto più "produzione" e non mescolate le email personali.
    - `pubblico`: sommate i follower veri di tutta la crew e della palestra. Se un numero non lo sapete, lasciate `null`: non viene mostrato.
-   - `crew`: aggiungete i nomi, se volete, e altri membri (copiate un blocco). Icone disponibili: `kettlebell`, `compasso`, `registro`, `grafico`, `formaggio`, `ciak`.
+   - `crew`: aggiungete i nomi, se volete, e altri membri (copiate un blocco). Icone disponibili: `kettlebell`, `compasso`, `registro`, `grafico`, `formaggio`, `codice`, `ciak`. Con `instagram` e `linkedin` (solo il nome utente) sulla scheda compaiono i link ai profili.
    - `pacchetti`: rivedete i valori. Sono di partenza e prudenti.
    - `chiusuraCasting`: la scadenza crea urgenza. Rispettatela.
 4. **Rigenerate il PDF e l'anteprima social** (vedi sotto).

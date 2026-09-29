@@ -27,6 +27,7 @@ window.FILM = {
 
   // La crew. Nomi facoltativi: se vuoti si vede solo il ruolo.
   // "garanzia" = cosa porta questa persona allo sponsor. È il cuore del pitch.
+  // instagram / linkedin: facoltativi, solo il nome utente (compare un link sulla scheda).
   crew: [
     {
       ruolo: 'Lo Sposo',
@@ -34,13 +35,16 @@ window.FILM = {
       mestiere: 'Docente di scienze motorie e co-titolare di una palestra a Roma Prati',
       garanzia: 'Il protagonista. Non si tira indietro davanti a nessuna sfida fisica, ed è proprio questo il problema.',
       icona: 'kettlebell',
+      instagram: 'silvio.palu',
     },
     {
       ruolo: "L'Ingegnere",
-      nome: '',
-      mestiere: 'Ingegnere',
+      nome: 'Alessandro Piedimonte',
+      mestiere: 'Ingegnere meccanico, automazione industriale',
       garanzia: 'Direzione di produzione. Programma al quarto d’ora, piano B e piano C. Voi non dovrete rincorrere nessuno.',
       icona: 'compasso',
+      instagram: 'piedimonte.alessandro',
+      linkedin: 'alessandro-piedimonte-automationengineer',
     },
     {
       ruolo: 'Il Commercialista',
@@ -51,10 +55,12 @@ window.FILM = {
     },
     {
       ruolo: "L'Economista",
-      nome: '',
+      nome: 'Simone Pallotta',
       mestiere: 'Economista',
       garanzia: 'Box office. A fine riprese riceverete un report con visualizzazioni, interazioni e contenuti pubblicati.',
       icona: 'grafico',
+      instagram: '__pallotta',
+      linkedin: 'simone-pallotta-334294b5',
     },
     {
       ruolo: 'Il Casaro',
@@ -62,6 +68,15 @@ window.FILM = {
       mestiere: 'Titolare di un caseificio',
       garanzia: 'Catering di scena. Sa cosa vuol dire fare impresa e vendere un prodotto: tratterà il vostro come fosse il suo.',
       icona: 'formaggio',
+    },
+    {
+      ruolo: 'Lo Specialista IT',
+      nome: 'Antonio De Cecio',
+      mestiere: 'Specialista IT',
+      garanzia: 'Regia digitale. Contenuti online in orario, tag giusti, link che funzionano e dati del report raccolti come si deve.',
+      icona: 'codice',
+      instagram: 'acecio',
+      linkedin: 'antonio-de-cecio-74989a168',
     },
   ],
 

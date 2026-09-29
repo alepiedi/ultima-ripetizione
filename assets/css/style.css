@@ -217,6 +217,12 @@ b, strong { font-weight: 700; }
 .card__role { font: 400 28px/1 var(--f-display); text-transform: uppercase; margin: 0 0 6px; }
 .card__who { font: 400 13px/1.4 var(--f-mono); color: var(--muted); margin: 0 0 14px; }
 .card__promise { margin: 0; color: var(--cream-2); font-size: 15.5px; }
+.card__links { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 0; }
+.card__links a {
+  font: 700 12px/1 var(--f-mono); letter-spacing: .08em; text-transform: uppercase; text-decoration: none;
+  padding: 8px 12px; border: 1px solid var(--line); border-radius: 999px; color: var(--gold);
+}
+.card__links a:hover { border-color: var(--gold); }
 
 /* ==========================================================================
    PUBBLICO
