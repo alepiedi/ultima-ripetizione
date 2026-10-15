@@ -47,7 +47,7 @@ Ogni sfida è una scena del film e un reel. Lo sponsor la "firma".
 | **Il casaro per un giorno:** Silvio deve fare una mozzarella decente | Caseifici, food |
 | **Il giudizio universale del barbiere:** l'ultimo taglio da celibe lo sceglie la crew | Barberie, grooming |
 | **Torneo Crew contro Prof** (padel, calcetto, beach volley) | Brand sportivi, villaggi |
-| **La cena da sposo:** Silvio cucina per 14 con un budget e 45 minuti | Supermercati, food delivery, cantine |
+| **La cena da sposo:** Silvio cucina per 10 con un budget e 45 minuti | Supermercati, food delivery, cantine |
 | **Missione impossibile:** portare il cartello "Mi sposo, offrimi un caffè" per il paese | Caffè, torrefazioni, bar |
 | **Sfida della natura:** rafting, surf o arrampicata, filmata con action cam | Location, tech |
 

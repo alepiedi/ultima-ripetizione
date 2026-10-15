@@ -35,7 +35,7 @@ Una **Location Ufficiale** può coprire da sola alloggio e attività. Cercate ch
 
 | Tipo | Esempi di proposta | Sfida per il Prof |
 |---|---|---|
-| **Masserie, agriturismi, borghi-albergo** | 2 notti per 14 in aprile o maggio, cena tipica | Olimpiadi rurali, raccolta, caseificio |
+| **Masserie, agriturismi, borghi-albergo** | 2 notti per 10 in aprile o maggio, cena tipica | Olimpiadi rurali, raccolta, caseificio |
 | **Villaggi e resort sportivi** | Pacchetto con campi da padel, calcetto, piscina | Torneo "Crew contro Prof" |
 | **Surf e kite camp, centri velici** | Corso di un giorno con alloggio | Lo sposo in piedi sulla tavola entro sera |
 | **Centri rafting, canyoning, parchi avventura** | Discesa più rifugio | Il Prof contro la natura |
@@ -46,7 +46,7 @@ Una **Location Ufficiale** può coprire da sola alloggio e attività. Cercate ch
 
 **Dove trovarli:** Google Maps (cercate "agriturismo con piscina [regione]"), Instagram con gli hashtag delle località, i siti dei consorzi regionali, le fiere del turismo.
 
-**Il gancio:** "Vi portiamo 14 persone in un weekend di bassa stagione, contenuti video professionali della vostra struttura e 14 recensioni. Voi ci ospitate."
+**Il gancio:** "Vi portiamo 10 persone in un weekend di bassa stagione, contenuti video professionali della vostra struttura e 10 recensioni. Voi ci ospitate."
 
 ---
 

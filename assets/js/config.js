@@ -12,16 +12,16 @@ window.FILM = {
   // Quando si gira. Lasciare generico finché non c'è la data.
   riprese: 'Primavera 2027',
   durata: '3 giorni · 2 notti',
-  persone: '12–15', // quanti partecipano (serve alle location per fare i conti)
+  persone: '10', // quanti partecipano (serve alle location per fare i conti)
 
   // Entro quando chiudete gli accordi con gli sponsor (conto alla rovescia in pagina)
   chiusuraCasting: '2027-01-31T23:59:00+01:00',
 
   // Contatti: compilare almeno uno dei due.
   contatti: {
-    email: '', // es. 'ultimaripetizione@gmail.com' (meglio un indirizzo dedicato)
+    email: 'ultimaripetizione@outlook.it',
     whatsapp: '', // solo cifre con prefisso, es. '393331234567'
-    instagram: '', // es. 'ultimaripetizione' (senza @)
+    instagram: 'ultimaripetizione', // senza @
     referente: 'La Produzione',
   },
 
@@ -79,6 +79,21 @@ window.FILM = {
       mestiere: 'Titolare di un caseificio',
       garanzia: 'Catering di scena. Sa cosa vuol dire fare impresa e vendere un prodotto: tratterà il vostro come fosse il suo.',
       icona: 'formaggio',
+    },
+    {
+      ruolo: 'Il Tuttofare',
+      nome: 'Enzo Abbatiello',
+      mestiere: 'Tuttofare nell’azienda di famiglia',
+      garanzia: 'Logistica. Furgone, attrezzi, montaggi e imprevisti: qualunque problema pratico, l’ha già risolto prima che ve ne accorgiate.',
+      icona: 'chiave',
+      instagram: 'enzo_abbatiello_',
+    },
+    {
+      ruolo: "L'Agricoltore",
+      nome: 'Giannicola Pallotta',
+      mestiere: 'Agricoltore',
+      garanzia: 'Sveglia all’alba. Abituato a lavorare la terra con qualsiasi tempo: se il set è in campagna, gioca in casa.',
+      icona: 'spiga',
     },
     {
       ruolo: 'Lo Specialista IT',

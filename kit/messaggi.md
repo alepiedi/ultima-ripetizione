@@ -35,13 +35,13 @@ Sostituite le parti tra `[parentesi quadre]`. Il link è quello della pagina: `h
 
 ## 2. Email per la Location Ufficiale (strutture, consorzi, comuni, tour operator)
 
-**Oggetto:** Cerchiamo un set per un film (e siamo 14)
+**Oggetto:** Cerchiamo un set per un film (e siamo in 10)
 
 > Buongiorno [Nome],
 >
 > stiamo scegliendo dove "girare" *L'Ultima Ripetizione*: l'addio al celibato del nostro amico Silvio, raccontato come una commedia sui social, con trailer e aftermovie.
 >
-> Il set **non è ancora deciso**, e vorremmo che fosse [nome struttura / territorio]. Il brief: [12–15] persone, 3 giorni e 2 notti in primavera 2027, almeno una sfida fisica per lo sposo (è un prof di educazione fisica: [attività della struttura] sarebbe perfetto).
+> Il set **non è ancora deciso**, e vorremmo che fosse [nome struttura / territorio]. Il brief: [10] persone, 3 giorni e 2 notti in primavera 2027, almeno una sfida fisica per lo sposo (è un prof di educazione fisica: [attività della struttura] sarebbe perfetto).
 >
 > Alla Location Ufficiale offriamo: «girato a [luogo]» su trailer, locandina e titoli; riprese dedicate alla struttura; un reel dietro le quinte; recensioni di tutta la crew; foto e video liberi da usare nella vostra comunicazione.
 >
@@ -51,7 +51,7 @@ Sostituite le parti tra `[parentesi quadre]`. Il link è quello della pagina: `h
 >
 > [Firma]
 
-> 💡 Proponete date di **bassa o media stagione** (aprile, maggio, inizio giugno): per una struttura riempire 14 posti letto in un weekend vuoto vale molto, e dirà sì più facilmente.
+> 💡 Proponete date di **bassa o media stagione** (aprile, maggio, inizio giugno): per una struttura riempire 10 posti letto in un weekend vuoto vale molto, e dirà sì più facilmente.
 
 ---
 

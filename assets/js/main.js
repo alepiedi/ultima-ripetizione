@@ -38,6 +38,8 @@
     formaggio: '<path d="M7 34 24 12l17 8v14z" /><path d="M7 34h34M24 12l17 8" /><circle cx="18" cy="28" r="2" /><circle cx="30" cy="27" r="2.4" />',
     codice: '<rect x="6" y="9" width="36" height="26" rx="3" /><path d="M18 41h12M24 35v6" /><path d="m19 18-5 4 5 4M29 18l5 4-5 4M26 16l-4 12" />',
     scudo: '<path d="M24 6 39 12v11c0 9.5-6.4 16.5-15 19-8.6-2.5-15-9.5-15-19V12z" /><path d="M24 17v14M17 24h14" />',
+    chiave: '<path d="M30 8a9 9 0 0 0-8.4 12.2L8 33.8V40h6.2l13.6-13.6A9 9 0 1 0 30 8z" /><circle cx="31" cy="17" r="2.5" />',
+    spiga: '<path d="M24 42V12" /><path d="M24 14c-5-1-7-5-7-8 4 0 7 3 7 8zM24 14c5-1 7-5 7-8-4 0-7 3-7 8zM24 22c-5-1-7-5-7-8 4 0 7 3 7 8zM24 22c5-1 7-5 7-8-4 0-7 3-7 8zM24 30c-5-1-7-5-7-8 4 0 7 3 7 8zM24 30c5-1 7-5 7-8-4 0-7 3-7 8z" />',
     ciak: '<rect x="8" y="18" width="32" height="22" rx="2" /><path d="M8 18 38 9l2 6M16 15.5l4 5M26 12.5l4 5" />',
   };
   function icon(name) {
